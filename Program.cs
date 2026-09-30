@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, Work");
+﻿Console.WriteLine("Hello VisualStudio Git!\n");
